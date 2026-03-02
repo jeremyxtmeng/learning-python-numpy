@@ -10,3 +10,12 @@
 - Scipy fundamental
     - Documentation
 
+<!--
+git status
+git branch --show-current
+git log --oneline -n 5
+
+
+-->
+ 
+
