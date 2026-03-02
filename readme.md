@@ -15,7 +15,8 @@ git status
 git branch --show-current
 git log --oneline -n 5
 
-
+gh auth login 
+gh repo create learning-python-numpy --public --source . --remote origin --push
 -->
  
 
