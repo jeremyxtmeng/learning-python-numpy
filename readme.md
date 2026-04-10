@@ -1,10 +1,12 @@
 
 # Resources
 
-- Python fundamental
+- Python fundamental combines resources from:
     - Ana Bell's book on learning Python
-    - to do
-        - adding unit testing
+    - Neetcode's Python for Coding Interviews video
+    - Neetcode's Python for programming video
+    - first 15 days of Angela Wu's developer course
+    - Part 1 of Eric Matthes' Python Crash Course
 - Numpy fundamental
     - Based on a course on Numpy by JetBrain (integrated in Pycharm)
 - Scipy fundamental
@@ -19,4 +21,6 @@ gh auth login
 gh repo create learning-python-numpy --public --source . --remote origin --push
 -->
  
+
+
 
