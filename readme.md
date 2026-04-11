@@ -8,7 +8,7 @@
     - first 15 days of Angela Wu's developer course
     - Part 1 of Eric Matthes' Python Crash Course
 - Numpy fundamental
-    - Based on a course on Numpy by JetBrain (integrated in Pycharm)
+    - Based on a course (Jetbrain Mastering Python Library Numpy) on Numpy by JetBrain (integrated in Pycharm)
 - Scipy fundamental
     - Documentation
 
