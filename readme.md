@@ -21,6 +21,7 @@ gh auth login
 gh repo create learning-python-numpy --public --source . --remote origin --push
 -->
  
-
+Python Crash Course 
+- ch 11: I omit the testing chapter
 
 
